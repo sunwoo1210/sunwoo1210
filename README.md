@@ -5,6 +5,8 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwoo1210&layout=&theme=)
+
 <!--
 **sunwoo1210/sunwoo1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
