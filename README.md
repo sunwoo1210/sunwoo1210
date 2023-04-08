@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
 <p align=<"center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>&nbsp
-  <img src="https://imag.shields.io.badge/C-A8B9CC?style=flat-square&logo=c&logeColor=white"/></a>&nbsp <br>
+  <img src="https://imag.shields.io.badge/C-A8B9CC?style=flat-square&logo=C&logeColor=white"/></a>&nbsp <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>&nbsp
