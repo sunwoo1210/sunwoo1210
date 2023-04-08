@@ -28,6 +28,6 @@ Here are some ideas to get you started:
   
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a> <br>
-
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwoo1210&layout=&theme=dark)
