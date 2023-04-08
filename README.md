@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4 align="center"> 👩‍💻 Tech Stack 👩‍💻 <h4>
+<h4 align> 👩‍💻 Tech Stack 👩‍💻 <h4>
   
 <p align=<"center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>&nbsp
